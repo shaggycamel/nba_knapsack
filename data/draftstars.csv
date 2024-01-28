@@ -1,0 +1,243 @@
+Player ID,Position,Name,Team,Opponent,Salary,FPPG,Form,Playing Status
+7000801,SF,Kawhi Leonard,LA Clippers,Los Angeles Lakers,16710,41.98,38.75,EXPECTED STARTER
+7000838,C,Anthony Davis,Los Angeles Lakers,LA Clippers,21830,53.5,53.33,"EXPECTED STARTER, PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY"
+7000846,SG,Evan Fournier,New York Knicks,Brooklyn Nets,6000,10,10,
+7000846,SF,Evan Fournier,New York Knicks,Brooklyn Nets,6000,10,10,
+7000854,PF,Aaron Gordon,Denver Nuggets,Indiana Pacers,13400,29.66,28.17,"EXPECTED STARTER, PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY"
+7000873,PF,Julius Randle,New York Knicks,Brooklyn Nets,16960,44.41,46.83,EXPECTED STARTER
+7000873,C,Julius Randle,New York Knicks,Brooklyn Nets,16960,44.41,46.83,EXPECTED STARTER
+7000875,SG,Jordan Clarkson,Utah Jazz,New Orleans Pelicans,13970,32,37.25,
+7000875,PG,Jordan Clarkson,Utah Jazz,New Orleans Pelicans,13970,32,37.25,
+7000890,PG,James Harden,LA Clippers,Los Angeles Lakers,16050,40.27,41.42,EXPECTED STARTER
+7000905,SG,Paul George,LA Clippers,Los Angeles Lakers,16170,40.76,38.33,EXPECTED STARTER
+7000907,PF,Jerami Grant,Portland Trail Blazers,Oklahoma City Thunder,12950,32.86,40.92,EXPECTED STARTER
+7000907,SF,Jerami Grant,Portland Trail Blazers,Oklahoma City Thunder,12950,32.86,40.92,EXPECTED STARTER
+7000933,C,Cody Zeller,New Orleans Pelicans,Utah Jazz,6000,7.62,6.17,
+7000984,C,Kelly Olynyk,Utah Jazz,New Orleans Pelicans,8680,22.83,15.92,
+7000984,PF,Kelly Olynyk,Utah Jazz,New Orleans Pelicans,8680,22.83,15.92,
+7001000,C,Mason Plumlee,LA Clippers,Los Angeles Lakers,7930,15.25,20.5,EXPECTED STARTER
+7001020,C,Jonas Valanciunas,New Orleans Pelicans,Utah Jazz,12560,33.05,22,EXPECTED STARTER
+7001116,PG,Spencer Dinwiddie,Brooklyn Nets,New York Knicks,11370,29.68,33.25,EXPECTED STARTER
+7001116,SG,Spencer Dinwiddie,Brooklyn Nets,New York Knicks,11370,29.68,33.25,EXPECTED STARTER
+7001119,SG,Kentavious Caldwell-Pope,Denver Nuggets,Indiana Pacers,8840,21,20.75,EXPECTED STARTER
+7001144,PF,P.J. Tucker,LA Clippers,Los Angeles Lakers,6000,7.35,5.25,
+7001144,C,P.J. Tucker,LA Clippers,Los Angeles Lakers,6000,7.35,5.25,
+7001183,SG,Justin Holiday,Denver Nuggets,Indiana Pacers,6000,8.32,-0.17,
+7001183,SF,Justin Holiday,Denver Nuggets,Indiana Pacers,6000,8.32,-0.17,
+7001193,PG,CJ McCollum,New Orleans Pelicans,Utah Jazz,14540,37.49,36.92,EXPECTED STARTER
+7001203,PG,Russell Westbrook,LA Clippers,Los Angeles Lakers,11800,28.21,37.92,
+7001206,PG,Reggie Jackson,Denver Nuggets,Indiana Pacers,8230,21.67,11.92,
+7001206,SG,Reggie Jackson,Denver Nuggets,Indiana Pacers,8230,21.67,11.92,
+7001216,SF,LeBron James,Los Angeles Lakers,LA Clippers,18480,48.64,45.5,OUT
+7001216,PF,LeBron James,Los Angeles Lakers,LA Clippers,18480,48.64,45.5,OUT
+7001238,C,DeAndre Jordan,Denver Nuggets,Indiana Pacers,6000,13.43,5.25,
+7001321,C,Christian Wood,Los Angeles Lakers,LA Clippers,8420,18.02,16.83,
+7001322,PG,T.J. McConnell,Indiana Pacers,Denver Nuggets,8190,20.96,18.33,
+7001332,SG,Norman Powell,LA Clippers,Los Angeles Lakers,8160,20.3,21.17,
+7001332,SF,Norman Powell,LA Clippers,Los Angeles Lakers,8160,20.3,21.17,
+7001333,C,Myles Turner,Indiana Pacers,Denver Nuggets,14540,33.41,34.5,EXPECTED STARTER
+7001347,C,Nikola Jokic,Denver Nuggets,Indiana Pacers,23530,59.53,66.08,EXPECTED STARTER
+7001360,PG,D'Angelo Russell,Los Angeles Lakers,LA Clippers,16120,31.82,43,EXPECTED STARTER
+7001360,SG,D'Angelo Russell,Los Angeles Lakers,LA Clippers,16120,31.82,43,EXPECTED STARTER
+7001362,C,Larry Nance,New Orleans Pelicans,Utah Jazz,8420,16.62,21.42,
+7001395,PF,Davis Bertans,Oklahoma City Thunder,Portland Trail Blazers,6000,6.46,3.67,
+7001401,PF,Dorian Finney-Smith,Brooklyn Nets,New York Knicks,7680,20.22,15.67,EXPECTED STARTER
+7001409,PF,Pascal Siakam,Indiana Pacers,Denver Nuggets,15770,38.87,31.92,EXPECTED STARTER
+7001409,C,Pascal Siakam,Indiana Pacers,Denver Nuggets,15770,38.87,31.92,EXPECTED STARTER
+7001417,PG,Ben Simmons,Brooklyn Nets,New York Knicks,12140,31.96,26.58,OUT
+7001417,SF,Ben Simmons,Brooklyn Nets,New York Knicks,12140,31.96,26.58,OUT
+7001425,PG,Kris Dunn,Utah Jazz,New Orleans Pelicans,8000,17.37,21.25,EXPECTED STARTER
+7001425,SG,Kris Dunn,Utah Jazz,New Orleans Pelicans,8000,17.37,21.25,EXPECTED STARTER
+7001426,PG,Malcolm Brogdon,Portland Trail Blazers,Oklahoma City Thunder,12240,30.27,44.92,EXPECTED STARTER
+7001426,SG,Malcolm Brogdon,Portland Trail Blazers,Oklahoma City Thunder,12240,30.27,44.92,EXPECTED STARTER
+7001429,SG,Buddy Hield,Indiana Pacers,Denver Nuggets,11590,24.69,36.42,EXPECTED STARTER
+7001429,SF,Buddy Hield,Indiana Pacers,Denver Nuggets,11590,24.69,36.42,EXPECTED STARTER
+7001433,PG,Jamal Murray,Denver Nuggets,Indiana Pacers,16510,38.8,43,EXPECTED STARTER
+7001441,C,Ivica Zubac,LA Clippers,Los Angeles Lakers,12160,29.59,31.33,OUT
+7001442,SF,Brandon Ingram,New Orleans Pelicans,Utah Jazz,14750,38.19,45.83,EXPECTED STARTER
+7001442,SG,Brandon Ingram,New Orleans Pelicans,Utah Jazz,14750,38.19,45.83,EXPECTED STARTER
+7001447,PF,Taurean Prince,Los Angeles Lakers,LA Clippers,8970,18.86,14.17,EXPECTED STARTER
+7001447,SF,Taurean Prince,Los Angeles Lakers,LA Clippers,8970,18.86,14.17,EXPECTED STARTER
+7001504,C,Harry Giles,Brooklyn Nets,New York Knicks,6000,6.44,6.08,
+7001531,SF,Royce O'Neale,Brooklyn Nets,New York Knicks,7730,20.35,9.92,
+7001550,SG,Josh Hart,New York Knicks,Brooklyn Nets,9510,21.33,22.42,
+7001550,SF,Josh Hart,New York Knicks,Brooklyn Nets,9510,21.33,22.42,
+7001561,PF,John Collins,Utah Jazz,New Orleans Pelicans,10540,27.73,21.67,EXPECTED STARTER
+7001561,C,John Collins,Utah Jazz,New Orleans Pelicans,10540,27.73,21.67,EXPECTED STARTER
+7001575,PF,Lauri Markkanen,Utah Jazz,New Orleans Pelicans,17530,42.49,44.75,EXPECTED STARTER
+7001575,SF,Lauri Markkanen,Utah Jazz,New Orleans Pelicans,17530,42.49,44.75,EXPECTED STARTER
+7001582,PG,Ryan Arcidiacono,New York Knicks,Brooklyn Nets,6000,1.05,0.92,
+7001594,SG,OG Anunoby,New York Knicks,Brooklyn Nets,11650,27.62,32.58,EXPECTED STARTER
+7001612,C,Daniel Theis,LA Clippers,Los Angeles Lakers,7470,14.94,17.25,
+7001628,PG,Dennis Smith,Brooklyn Nets,New York Knicks,8660,20.19,18.33,
+7022298,C,Deandre Ayton,Portland Trail Blazers,Oklahoma City Thunder,11720,30.07,22.17,EXPECTED STARTER
+7022302,PG,Collin Sexton,Utah Jazz,New Orleans Pelicans,15250,28.41,43.92,EXPECTED STARTER
+7022308,SG,Anfernee Simons,Portland Trail Blazers,Oklahoma City Thunder,13880,35.9,33.42,EXPECTED STARTER
+7022308,PG,Anfernee Simons,Portland Trail Blazers,Oklahoma City Thunder,13880,35.9,33.42,EXPECTED STARTER
+7022310,SF,Michael Porter,Denver Nuggets,Indiana Pacers,12590,31.04,29.08,"EXPECTED STARTER, PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY"
+7022310,PF,Michael Porter,Denver Nuggets,Indiana Pacers,12590,31.04,29.08,"EXPECTED STARTER, PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY"
+7022332,PG,Jalen Brunson,New York Knicks,Brooklyn Nets,18680,43.93,57.67,EXPECTED STARTER
+7022335,SF,Mikal Bridges,Brooklyn Nets,New York Knicks,16090,36.18,37.08,EXPECTED STARTER
+7022335,SG,Mikal Bridges,Brooklyn Nets,New York Knicks,16090,36.18,37.08,EXPECTED STARTER
+7022343,PF,Jarred Vanderbilt,Los Angeles Lakers,LA Clippers,7130,12.52,18.33,"EXPECTED STARTER, PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY"
+7022343,C,Jarred Vanderbilt,Los Angeles Lakers,LA Clippers,7130,12.52,18.33,"EXPECTED STARTER, PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY"
+7022345,C,Robert Williams,Portland Trail Blazers,Oklahoma City Thunder,7630,20.08,19.08,OUT
+7022346,SG,Donte DiVincenzo,New York Knicks,Brooklyn Nets,10560,22.06,23.33,EXPECTED STARTER
+7022346,SF,Donte DiVincenzo,New York Knicks,Brooklyn Nets,10560,22.06,23.33,EXPECTED STARTER
+7022347,C,Mitchell Robinson,New York Knicks,Brooklyn Nets,9640,25.36,21.25,OUT
+7022352,PG,Shai Gilgeous-Alexander,Oklahoma City Thunder,Portland Trail Blazers,20600,53.28,42.67,EXPECTED STARTER
+7022355,SG,Lonnie Walker,Brooklyn Nets,New York Knicks,7720,20.31,18.17,
+7022355,SF,Lonnie Walker,Brooklyn Nets,New York Knicks,7720,20.31,18.17,
+7022376,SF,Kenrich Williams,Oklahoma City Thunder,Portland Trail Blazers,6000,11.97,13.42,
+7022379,C,Isaiah Hartenstein,New York Knicks,Brooklyn Nets,12680,24.26,26.5,"EXPECTED STARTER, PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY"
+7022447,PG,Gabe Vincent,Los Angeles Lakers,LA Clippers,6000,13.55,10.25,OUT
+7022447,SG,Gabe Vincent,Los Angeles Lakers,LA Clippers,6000,13.55,10.25,OUT
+7022503,SG,Dylan Windler,Los Angeles Lakers,LA Clippers,6000,2.81,2.08,
+7022510,C,Jaxson Hayes,Los Angeles Lakers,LA Clippers,6000,6.37,2.92,
+7022511,SF,Cam Reddish,Los Angeles Lakers,LA Clippers,6000,14.69,7.25,
+7022512,SF,Talen Horton-Tucker,Utah Jazz,New Orleans Pelicans,10860,23.18,19.33,
+7022512,PF,Talen Horton-Tucker,Utah Jazz,New Orleans Pelicans,10860,23.18,19.33,
+7022515,PF,Rui Hachimura,Los Angeles Lakers,LA Clippers,9100,19.19,12.33,
+7022523,SF,Matisse Thybulle,Portland Trail Blazers,Oklahoma City Thunder,6000,14.81,10.42,
+7022523,PF,Matisse Thybulle,Portland Trail Blazers,Oklahoma City Thunder,6000,14.81,10.42,
+7022528,SG,Terance Mann,LA Clippers,Los Angeles Lakers,6750,16.09,16.42,EXPECTED STARTER
+7022528,PG,Terance Mann,LA Clippers,Los Angeles Lakers,6750,16.09,16.42,EXPECTED STARTER
+7022534,PF,Zion Williamson,New Orleans Pelicans,Utah Jazz,15230,37.73,35.33,EXPECTED STARTER
+7022534,C,Zion Williamson,New Orleans Pelicans,Utah Jazz,15230,37.73,35.33,EXPECTED STARTER
+7022537,C,Nic Claxton,Brooklyn Nets,New York Knicks,14350,33.73,39.5,EXPECTED STARTER
+7022545,PF,Cameron Johnson,Brooklyn Nets,New York Knicks,10410,26.29,26.08,EXPECTED STARTER
+7022545,SF,Cameron Johnson,Brooklyn Nets,New York Knicks,10410,26.29,26.08,EXPECTED STARTER
+7022557,PF,Luka Samanic,Utah Jazz,New Orleans Pelicans,6000,6.08,2.83,
+7022569,SF,Luguentz Dort,Oklahoma City Thunder,Portland Trail Blazers,8790,22.19,24.58,EXPECTED STARTER
+7022573,SF,Amir Coffey,LA Clippers,Los Angeles Lakers,6000,8.14,9.08,
+7022609,C,Moses Brown,Portland Trail Blazers,Oklahoma City Thunder,6000,9.61,9.92,OUT
+7022610,PF,Vlatko Cancar,Denver Nuggets,Indiana Pacers,6000,0,0,OUT
+7022614,SG,Charlie Brown,New York Knicks,Brooklyn Nets,6000,0.83,0.83,
+7022677,SF,Aaron Nesmith,Indiana Pacers,Denver Nuggets,8360,21.52,18.42,EXPECTED STARTER
+7022677,PF,Aaron Nesmith,Indiana Pacers,Denver Nuggets,8360,21.52,18.42,EXPECTED STARTER
+7022680,SG,Isaiah Joe,Oklahoma City Thunder,Portland Trail Blazers,6930,16.51,21.92,
+7022680,SF,Isaiah Joe,Oklahoma City Thunder,Portland Trail Blazers,6930,16.51,21.92,
+7022684,PG,Malachi Flynn,New York Knicks,Brooklyn Nets,6000,11.13,2.58,
+7022686,PF,Obi Toppin,Indiana Pacers,Denver Nuggets,7910,20.82,15.58,
+7022686,C,Obi Toppin,Indiana Pacers,Denver Nuggets,7910,20.82,15.58,
+7022692,SG,Skylar Mays,Los Angeles Lakers,LA Clippers,6000,14.76,9.17,
+7022692,PG,Skylar Mays,Los Angeles Lakers,LA Clippers,6000,14.76,9.17,
+7022702,C,Precious Achiuwa,New York Knicks,Brooklyn Nets,6390,16.82,15.33,
+7022703,PF,Jalen Smith,Indiana Pacers,Denver Nuggets,8550,20.59,26,
+7022704,PG,Tyrese Haliburton,Indiana Pacers,Denver Nuggets,20020,52.69,37.83,"EXPECTED STARTER, PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY"
+7022716,PF,Zeke Nnaji,Denver Nuggets,Indiana Pacers,6000,8.13,5.42,
+7022731,C,Omer Yurtseven,Utah Jazz,New Orleans Pelicans,6000,10.49,5,
+7022747,PF,Aleksej Pokusevski,Oklahoma City Thunder,Portland Trail Blazers,6000,3.5,5.5,
+7022747,C,Aleksej Pokusevski,Oklahoma City Thunder,Portland Trail Blazers,6000,3.5,5.5,
+7022784,SF,Naji Marshall,New Orleans Pelicans,Utah Jazz,6390,16.82,7.75,
+7022784,PF,Naji Marshall,New Orleans Pelicans,Utah Jazz,6390,16.82,7.75,
+7022797,C,Day'Ron Sharpe,Brooklyn Nets,New York Knicks,8330,20.88,23.17,OUT
+7022800,SG,Cam Thomas,Brooklyn Nets,New York Knicks,11060,29.11,30.25,
+7022800,PG,Cam Thomas,Brooklyn Nets,New York Knicks,11060,29.11,30.25,
+7022805,PG,Miles McBride,New York Knicks,Brooklyn Nets,6000,7.79,4.83,
+7022806,C,Jericho Sims,New York Knicks,Brooklyn Nets,6000,3.5,1.58,
+7022807,SG,Quentin Grimes,New York Knicks,Brooklyn Nets,6000,12.8,11.83,
+7022807,SF,Quentin Grimes,New York Knicks,Brooklyn Nets,6000,12.8,11.83,
+7022817,C,Isaiah Jackson,Indiana Pacers,Denver Nuggets,6710,17.19,13,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY
+7022830,SG,Brandon Boston,LA Clippers,Los Angeles Lakers,6000,6.81,3.5,
+7022830,PG,Brandon Boston,LA Clippers,Los Angeles Lakers,6000,6.81,3.5,
+7022831,PG,Keon Johnson,Brooklyn Nets,New York Knicks,7320,19.25,19.25,
+7022832,PG,Jason Preston,Utah Jazz,New Orleans Pelicans,6000,0,0,
+7022834,SF,Trey Murphy,New Orleans Pelicans,Utah Jazz,9140,24.04,21,
+7022834,SG,Trey Murphy,New Orleans Pelicans,Utah Jazz,9140,24.04,21,
+7022835,SF,Herbert Jones,New Orleans Pelicans,Utah Jazz,8830,23.23,17.08,EXPECTED STARTER
+7022835,PF,Herbert Jones,New Orleans Pelicans,Utah Jazz,8830,23.23,17.08,EXPECTED STARTER
+7022840,PG,Bones Hyland,LA Clippers,Los Angeles Lakers,6000,12.05,5.5,
+7022840,SG,Bones Hyland,LA Clippers,Los Angeles Lakers,6000,12.05,5.5,
+7022841,SG,Joshua Primo,LA Clippers,Los Angeles Lakers,6000,2.5,2.5,
+7022843,PG,Tre Mann,Oklahoma City Thunder,Portland Trail Blazers,6000,8.81,9.42,
+7022844,PF,Jeremiah Robinson-Earl,New Orleans Pelicans,Utah Jazz,6000,9.13,7.58,
+7022845,SG,Aaron Wiggins,Oklahoma City Thunder,Portland Trail Blazers,6000,10.01,12.83,
+7022845,SF,Aaron Wiggins,Oklahoma City Thunder,Portland Trail Blazers,6000,10.01,12.83,
+7022853,SG,Josh Giddey,Oklahoma City Thunder,Portland Trail Blazers,12140,28.55,29.17,EXPECTED STARTER
+7022853,PG,Josh Giddey,Oklahoma City Thunder,Portland Trail Blazers,12140,28.55,29.17,EXPECTED STARTER
+7022858,SG,Austin Reaves,Los Angeles Lakers,LA Clippers,13170,29.69,26,EXPECTED STARTER
+7022858,SF,Austin Reaves,Los Angeles Lakers,LA Clippers,13170,29.69,26,EXPECTED STARTER
+7022861,PG,Duane Washington,New York Knicks,Brooklyn Nets,6000,0,0,
+7022863,PG,Jose Alvarado,New Orleans Pelicans,Utah Jazz,6000,15.29,10.5,
+7022869,PF,Trendon Watford,Brooklyn Nets,New York Knicks,6000,12.45,5.67,
+7022869,C,Trendon Watford,Brooklyn Nets,New York Knicks,6000,12.45,5.67,
+7022874,C,Jay Huff,Denver Nuggets,Indiana Pacers,6000,1.56,1.42,
+7022896,C,Micah Potter,Utah Jazz,New Orleans Pelicans,6000,2.5,2.5,
+7022912,SF,Matt Ryan,New Orleans Pelicans,Utah Jazz,6000,15.35,13.08,OUT
+7022932,C,Olivier Sarr,Oklahoma City Thunder,Portland Trail Blazers,6000,7.28,2.42,OUT
+7022939,SG,Xavier Moon,LA Clippers,Los Angeles Lakers,6000,4.25,4.25,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY
+7022945,PF,Braxton Key,Denver Nuggets,Indiana Pacers,6000,3.35,3.17,
+7022946,SG,Lindy Waters,Oklahoma City Thunder,Portland Trail Blazers,6000,5.83,5.17,
+7022946,SF,Lindy Waters,Oklahoma City Thunder,Portland Trail Blazers,6000,5.83,5.17,
+7022947,PG,Dyson Daniels,New Orleans Pelicans,Utah Jazz,6730,17.72,7.5,
+7022947,SG,Dyson Daniels,New Orleans Pelicans,Utah Jazz,6730,17.72,7.5,
+7022948,PG,Scoot Henderson,Portland Trail Blazers,Oklahoma City Thunder,9090,23.91,11.5,
+7022948,SG,Scoot Henderson,Portland Trail Blazers,Oklahoma City Thunder,9090,23.91,11.5,
+7022963,PG,Collin Gillespie,Denver Nuggets,Indiana Pacers,6000,4.32,4.25,
+7022965,SF,Johnny Juzang,Utah Jazz,New Orleans Pelicans,6000,1.5,1.5,
+7022974,SG,Dereon Seabron,New Orleans Pelicans,Utah Jazz,6000,7.05,5.67,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY
+7022974,SF,Dereon Seabron,New Orleans Pelicans,Utah Jazz,6000,7.05,5.67,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY
+7022982,SG,Andrew Nembhard,Indiana Pacers,Denver Nuggets,7410,17.73,21.17,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY
+7022982,PG,Andrew Nembhard,Indiana Pacers,Denver Nuggets,7410,17.73,21.17,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY
+7022983,SF,Kendall Brown,Indiana Pacers,Denver Nuggets,6000,4,4,
+7022984,SG,Bennedict Mathurin,Indiana Pacers,Denver Nuggets,8830,23.23,17.58,
+7022986,C,Moussa Diabate,LA Clippers,Los Angeles Lakers,6000,6.98,2.92,OUT
+7022993,SG,Ochai Agbaji,Utah Jazz,New Orleans Pelicans,6000,12.8,8.58,
+7022997,SG,Max Christie,Los Angeles Lakers,LA Clippers,6000,11.44,9.25,
+7022997,SF,Max Christie,Los Angeles Lakers,LA Clippers,6000,11.44,9.25,
+7023003,PF,E.J. Liddell,New Orleans Pelicans,Utah Jazz,6000,2.04,1.42,
+7023016,PF,Peyton Watson,Denver Nuggets,Indiana Pacers,6260,14.35,13.17,
+7023017,SG,Christian Braun,Denver Nuggets,Indiana Pacers,6000,15.69,11,
+7023017,SF,Christian Braun,Denver Nuggets,Indiana Pacers,6000,15.69,11,
+7023018,PF,Jaylin Williams,Oklahoma City Thunder,Portland Trail Blazers,6000,10.6,7.67,
+7023018,C,Jaylin Williams,Oklahoma City Thunder,Portland Trail Blazers,6000,10.6,7.67,
+7023019,PF,Jalen Williams,Oklahoma City Thunder,Portland Trail Blazers,14990,33.74,42.25,EXPECTED STARTER
+7023020,PF,Ousmane Dieng,Oklahoma City Thunder,Portland Trail Blazers,6000,8.13,3.83,
+7023021,PF,Chet Holmgren,Oklahoma City Thunder,Portland Trail Blazers,15230,37.16,30.08,EXPECTED STARTER
+7023021,C,Chet Holmgren,Oklahoma City Thunder,Portland Trail Blazers,15230,37.16,30.08,EXPECTED STARTER
+7023023,C,Walker Kessler,Utah Jazz,New Orleans Pelicans,9700,25.53,27.83,
+7023026,SG,Shaedon Sharpe,Portland Trail Blazers,Oklahoma City Thunder,11000,28.95,24.25,OUT
+7023026,SF,Shaedon Sharpe,Portland Trail Blazers,Oklahoma City Thunder,11000,28.95,24.25,OUT
+7023027,PF,Jabari Walker,Portland Trail Blazers,Oklahoma City Thunder,12410,19.26,23.75,EXPECTED STARTER
+7023036,SF,Simone Fontecchio,Utah Jazz,New Orleans Pelicans,7320,17.43,21.33,EXPECTED STARTER
+7023063,C,Ibou Badji,Portland Trail Blazers,Oklahoma City Thunder,6000,10.13,7.58,
+7023097,SF,Justin Minaya,Portland Trail Blazers,Oklahoma City Thunder,6000,4.75,5.08,
+7023099,SF,Dariq Whitehead,Brooklyn Nets,New York Knicks,6000,7.25,7.25,OUT
+7023099,SG,Dariq Whitehead,Brooklyn Nets,New York Knicks,6000,7.25,7.25,OUT
+7023100,C,Noah Clowney,Brooklyn Nets,New York Knicks,6000,11.38,11.38,
+7023104,SG,Ben Sheppard,Indiana Pacers,Denver Nuggets,6000,6.83,15.25,
+7023105,PF,Jarace Walker,Indiana Pacers,Denver Nuggets,6000,11.18,25.92,
+7023114,PF,Kobe Brown,LA Clippers,Los Angeles Lakers,6000,5.7,1.17,
+7023114,SF,Kobe Brown,LA Clippers,Los Angeles Lakers,6000,5.7,1.17,
+7023115,SG,Jalen Hood-Schifino,Los Angeles Lakers,LA Clippers,6000,4.73,4.17,
+7023115,PG,Jalen Hood-Schifino,Los Angeles Lakers,LA Clippers,6000,4.73,4.17,
+7023120,SG,Jordan Hawkins,New Orleans Pelicans,Utah Jazz,8660,18.26,21.58,
+7023122,SG,Julian Strawther,Denver Nuggets,Indiana Pacers,6000,11.01,6.42,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY
+7023123,SG,Cason Wallace,Oklahoma City Thunder,Portland Trail Blazers,6290,14.15,15.58,
+7023123,PG,Cason Wallace,Oklahoma City Thunder,Portland Trail Blazers,6290,14.15,15.58,
+7023124,SF,Kris Murray,Portland Trail Blazers,Oklahoma City Thunder,6000,8.69,3.5,
+7023124,PF,Kris Murray,Portland Trail Blazers,Oklahoma City Thunder,6000,8.69,3.5,
+7023126,PG,Keyonte George,Utah Jazz,New Orleans Pelicans,9030,21.74,14,
+7023127,SF,Brice Sensabaugh,Utah Jazz,New Orleans Pelicans,6000,3.06,3.25,
+7023128,PF,Taylor Hendricks,Utah Jazz,New Orleans Pelicans,6000,10.98,4.67,
+7023130,SF,Jalen Wilson,Brooklyn Nets,New York Knicks,6000,9.23,19.17,
+7023133,PG,Isaiah Wong,Indiana Pacers,Denver Nuggets,6000,0,0,
+7023143,SG,Jordan Miller,LA Clippers,Los Angeles Lakers,6000,2.69,2.92,
+7023144,SF,Maxwell Lewis,Los Angeles Lakers,LA Clippers,6000,0.95,0,
+7023148,PF,Toumani Camara,Portland Trail Blazers,Oklahoma City Thunder,6570,17.29,13.25,
+7023148,SF,Toumani Camara,Portland Trail Blazers,Oklahoma City Thunder,6570,17.29,13.25,
+7023151,PF,Hunter Tyson,Denver Nuggets,Indiana Pacers,6000,1.22,0.83,
+7023151,SF,Hunter Tyson,Denver Nuggets,Indiana Pacers,6000,1.22,0.83,
+7023152,SG,Jalen Pickett,Denver Nuggets,Indiana Pacers,6000,4.42,2.58,
+7023155,SF,Keyontae Johnson,Oklahoma City Thunder,Portland Trail Blazers,6000,4.88,4.88,
+7023156,SG,Rayan Rupert,Portland Trail Blazers,Oklahoma City Thunder,6000,5.84,11.42,
+7023156,SF,Rayan Rupert,Portland Trail Blazers,Oklahoma City Thunder,6000,5.84,11.42,
+7023157,SF,Jaylen Martin,New York Knicks,Brooklyn Nets,6000,0,0,
+7023158,PF,Jacob Toppin,New York Knicks,Brooklyn Nets,6000,1.17,1.17,
+7023162,PF,Oscar Tshiebwe,Indiana Pacers,Denver Nuggets,6000,7.17,7.58,
+7023171,PG,Vasilije Micic,Oklahoma City Thunder,Portland Trail Blazers,6000,9.14,6.08,
+7023171,SG,Vasilije Micic,Oklahoma City Thunder,Portland Trail Blazers,6000,9.14,6.08,
+7023175,C,Colin Castleton,Los Angeles Lakers,LA Clippers,6000,6.25,6.83,
+7023187,C,Duop Reath,Portland Trail Blazers,Oklahoma City Thunder,9850,19.02,25.08,
+7023217,SG,Taze Moore,Portland Trail Blazers,Oklahoma City Thunder,6000,4,4,
