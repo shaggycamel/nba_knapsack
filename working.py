@@ -3,6 +3,7 @@ from ortools.linear_solver import pywraplp
 
 # Read in data
 df = pd.read_csv('data/draftstars.csv')
+df = df[df['Playing Status'] != 'OUT'].reset_index(drop=True)
 df = df.groupby('Name').head(1).reset_index(drop=True) # How to add this constraint ???
 df.columns = [col.lower().replace(' ', '_') for col in df.columns]
 
@@ -52,9 +53,13 @@ def salary_constraint(solver):
 
 # Combine all constraints
 def add_constraints(solver):
-    solver = player_count_constraint(solver)
-    solver = position_constraint(solver)
-    solver = salary_constraint(solver)
+    cnsts_dict = {}
+    cnsts_dict['solver'] = solver
+    
+    for cnst in [el for el in globals().keys() if el.endswith('constraint')]:
+        cnsts_dict[cnst] = globals()[cnst]
+        solver = eval(cnst + '(solver)', cnsts_dict)
+  
     return solver
 
 
@@ -74,7 +79,9 @@ def set_obj_function(solver, player_ix):
 solver = add_constraints(solver)
 solver, player_ix, objective = set_obj_function(solver, player_ix)
 df_team = df.iloc[[bool(int(el.solution_value())) for el in player_ix.values()]]
-df_team = df_team[['name', 'position', 'team', 'salary', 'form', 'playing_status']].sort_values('salary', ascending=False)
+df_team = df_team[['name', 'position', 'team', 'salary', 'form', 'playing_status']]
+df_team['position'] = pd.Categorical(df_team['position'], categories=['PG', 'SG', 'PF', 'SF', 'C'], ordered=True)
+df_team = df_team.sort_values('position')
 
 print(f'''
     Generated team total PER: {round(df_team['form'].sum(), 2)}. \n 
